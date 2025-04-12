@@ -112,7 +112,7 @@ const TeacherForm = ({
                     {errors.subjects?.message && <p className="text-xs text-red-400">{errors.subjects.message.toString()}</p>}
                 </div>
                 <CldUploadWidget
-                    uploadPreset="school"
+                    uploadPreset="uno-r-school-management"
                     onSuccess={(result, { widget }) => {
                         setImg(result.info);
                         widget.close();

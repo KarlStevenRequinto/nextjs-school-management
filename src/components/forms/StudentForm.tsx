@@ -74,7 +74,7 @@ const StudentForm = ({
             </div>
             <span className="text-xs text-gray-400 font-medium">Personal Information</span>
             <CldUploadWidget
-                uploadPreset="school"
+                uploadPreset="uno-r-school-management"
                 onSuccess={(result, { widget }) => {
                     setImg(result.info);
                     widget.close();
