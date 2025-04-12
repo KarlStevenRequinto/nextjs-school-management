@@ -10,6 +10,7 @@ A full-stack, role-based **School Management System** built with **Next.js**, **
 -   📚 **Assignment & Exam Scheduling**
 -   📣 **Announcements and Notifications**
 -   📇 **CRUD operations** for Users (Admins only)
+-   🐳 Dockerized Full-Stack App with PostgreSQL
 -   📦 Full-stack integration with PostgreSQL + Prisma
 -   🎨 Fully responsive layout using Tailwind CSS
 -   🔐 Authentication and session management using Clerk
